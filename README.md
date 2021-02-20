@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Deployed using Firebase: [View](https://slack-clone-335d0.web.app/)
 
+![Screenshot](public/Capture.PNG)
+
 ## Available Scripts
 
 In the project directory, you can run:
